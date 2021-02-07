@@ -1,4 +1,12 @@
 # Lightgrid
-The code and recourses to build your own Lightgrid as seen on my youtube channel
+
+Massive thank you to Mat1jazcyyy for providing the midi to usb code. 
+
+DO NOT:
+-Take credit for anything in this repository
+-Sell this code 
+-Redistribute this code other than by linking the receiver to THIS repo.
+
 
 Contact me on discord at "NoahTunes Launchpad#6791" for any help :). 
+
