@@ -1,6 +1,6 @@
 # Lightgrid
 
-Massive thank you to Mat1jazcyyy for providing the midi to usb code. 
+Massive thank you to Mat1jaczyyy for providing the midi to usb code. 
 
 DO NOT:
 -Take credit for anything in this repository
